@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BCASIXTH2081</string>
+
+    <string name="enter_full_name">Enter your Full Name</string>
+    <string name="enter_phone_number">Enter your Phone Number</string>
+
+    <string name="welcome_text">Welcome to The App</string>
+
+    <string name="btn_go_to_login">Go to Login</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+
+    <string-array name="tour_places">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Maldives</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
