@@ -66,7 +66,8 @@ public class ConstraintLayoutActivity extends AppCompatActivity {
             }
         });
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_dropdown_item, items);
+        ArrayAdapter<String> adapter = new ArrayAdapter<>
+                (this, android.R.layout.simple_spinner_dropdown_item, items);
         spinnerDropdown.setAdapter(adapter);
 
         spinnerDropdown.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
